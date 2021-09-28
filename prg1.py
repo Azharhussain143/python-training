@@ -6,7 +6,7 @@ if(no1>no2>no3):
 elif(no2>no3>no1):
     print("largest no2")
 else:
-    print("largest no3")
+    print("largest no3)
 
 
 
